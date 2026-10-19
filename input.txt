@@ -1,0 +1,11 @@
+Hello,
+
+You can contact Arnab at arnab@example.com.
+
+For technical support, email support@company.com.
+
+For internship queries, contact internship@codealpha.tech.
+
+You can also reach our support team at support@company.com.
+
+Thank you!
